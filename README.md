@@ -1,4 +1,4 @@
-# City-Rankings-and-Health-Metrics
+# City-Rankings-and-Health-Metrics-Project
 
 ![City-Rankings-and-Health-Metrics](https://github.com/user-attachments/assets/2f852d04-3c1c-4f23-b6e4-72ff46d1d8ac)
 
