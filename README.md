@@ -67,3 +67,6 @@ To ensure our data is in the best form for analysis, removed currency symbols an
 ## Obesity vs. Life Expectancy
 
 ![image](https://github.com/user-attachments/assets/bb6a2e4d-5ee0-43b3-91de-4c141db1013c)
+
+![Obesity Level vs  Life Expectancy Visualization](https://github.com/user-attachments/assets/c54ce3e7-dceb-4f2f-8fcb-b0ef39ac6c37)
+
