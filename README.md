@@ -1,5 +1,7 @@
 # City-Rankings-and-Health-Metrics
 
+![](Ciy-Rankings-and-Health.jpeg)
+
 #  Rank vs Happiness levels(Country)
 
 #from matplotlib import pyplot as plt
