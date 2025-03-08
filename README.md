@@ -1,5 +1,6 @@
 # City-Rankings-and-Health-Metrics
-# @title Rank vs Happiness levels(Country)
+
+#  Rank vs Happiness levels(Country)
 
 #from matplotlib import pyplot as plt
 #import seaborn as sns
