@@ -40,12 +40,6 @@ Modeling for Predictions
  ## Import Libraries and Load Data
  Importing necessary libraries and loading dataset- Pandas as pd
 
-Data columns (total 12 columns):
-Range Index: 44 entries, 0 to 43
-
-![Panda as pd Coding](https://github.com/user-attachments/assets/9b771695-5ea9-4e76-9143-fb29c19879e1)
-
-
 ## Data Wrangling
 To ensure our data is in the best form for analysis, removed currency symbols and percentages, converting relevant columns to float.
 
