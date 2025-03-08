@@ -47,3 +47,8 @@ Range Index: 44 entries, 0 to 43
 
 
 ![City-Rankings-and-Health-Metrics- Pandas as pd ](https://github.com/user-attachments/assets/6d70796f-0dbf-48b6-9b55-ddb9086ea673)
+
+## Data Wrangling
+To ensure our data is in the best form for analysis, removed currency symbols and percentages, converting relevant columns to float.
+
+![Data Wrangling](https://github.com/user-attachments/assets/07a9ae70-c659-4c97-9157-0e789f7000c6)
