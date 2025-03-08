@@ -70,3 +70,8 @@ To ensure our data is in the best form for analysis, removed currency symbols an
 
 ![Obesity Level vs  Life Expectancy Visualization](https://github.com/user-attachments/assets/c54ce3e7-dceb-4f2f-8fcb-b0ef39ac6c37)
 
+## Statistical Analysis
+Correlation Matrix
+To understand the relationships between different numerical features in the dataset, created a correlation matrix.
+
+![correlation matrix-Create DataFrame](https://github.com/user-attachments/assets/4f9088d7-7cf2-49b0-be5f-becb9555ba54)
