@@ -86,9 +86,6 @@ To understand the relationships between different numerical features in the data
 ## T-statistic & P-value
 ![import pandas as pd-T-statistic](https://github.com/user-attachments/assets/d77e9ca2-f354-43a7-af88-fb9e01bb5cc4)
 
-## Conclusions
-The analysis reveals interesting insights into the factors influencing happiness and health in different cities. These insights can guide public health policies and urban planning to enhance overall well-being.
-
 ## Overall Findings
 - Rank and Happiness Levels: Higher-ranked cities generally show higher happiness levels, but exceptions suggest other influencing factors like economic stability and cultural aspects.
 - Obesity Levels and Life Expectancy: A strong negative correlation supports the hypothesis that lower obesity levels correlate with higher life expectancy.
@@ -117,4 +114,6 @@ The analysis reveals interesting insights into the factors influencing happiness
 - The Confirmation: Hypothesis confirmed. Reducing obesity significantly increases life expectancy, emphasizing the need for public health initiatives focused on nutrition and fitness.
 - Conclusion Happiness: Influenced by city rank but also by multifaceted factors.
 - Life Expectancy: Strongly correlated with lower obesity levels. These insights guide strategies for enhancing happiness and health in communities.
-- 
+
+## Conclusions
+The analysis reveals interesting insights into the factors influencing happiness and health in different cities. These insights can guide public health policies and urban planning to enhance overall well-being.
