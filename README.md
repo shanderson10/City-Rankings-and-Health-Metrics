@@ -7,7 +7,7 @@
 This project explores the relationship between city rankings, happiness levels, and health metrics such as obesity and life expectancy. It aims to uncover patterns and insights that can guide urban planning and public health initiatives.
 
 ## About the Dataset
-Key Features and Relationships
+# Key Features and Relationships
 1.  Rank vs. Happiness Levels:
 - Explore how city rankings (e.g., economic or social rankings) correlate with overall happiness scores.
 - Consider using data such as GDP per capita, unemployment rates, or other social metrics to enrich your analysis.
