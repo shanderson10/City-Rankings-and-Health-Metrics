@@ -54,7 +54,7 @@ To ensure our data is in the best form for analysis, removed currency symbols an
  Explored the dataset using summary statistics and visualizations to identify patterns and relationships.
 ![Summary statistics](https://github.com/user-attachments/assets/51c86274-f101-4160-b4d1-7aea66d6b4b9)
 
-## Rank vs Happiness levels(Country)
+## Rank vs. Happiness levels(Country)
 
 ![City- Rankings- and-Health-Metrics-44 Cities](https://github.com/user-attachments/assets/a0331e41-d4bc-481f-9ccb-74a3e8e38a43)
 
@@ -64,3 +64,6 @@ To ensure our data is in the best form for analysis, removed currency symbols an
 
 ![Sunshine hours by City Visualizations](https://github.com/user-attachments/assets/637a2ca6-f880-4533-a815-354820fea985)
 
+## Obesity vs. Life Expectancy
+
+![image](https://github.com/user-attachments/assets/bb6a2e4d-5ee0-43b3-91de-4c141db1013c)
