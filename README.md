@@ -43,8 +43,7 @@ Modeling for Predictions
 Data columns (total 12 columns):
 Range Index: 44 entries, 0 to 43
 
- #   Column                                  Non-Null Count  Dtype  
----  ------                                  --------------  -----  
+ ##   Column                                  Non-Null Count  Dtype   
 - 0   City                                    44 non-null     object 
 - 1   Rank                                    44 non-null     int64
 - 2   Sunshine hours(City)                    44 non-null     object
