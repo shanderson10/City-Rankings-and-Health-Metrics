@@ -52,3 +52,8 @@ Range Index: 44 entries, 0 to 43
 To ensure our data is in the best form for analysis, removed currency symbols and percentages, converting relevant columns to float.
 
 ![Data Wrangling](https://github.com/user-attachments/assets/07a9ae70-c659-4c97-9157-0e789f7000c6)
+
+## Data Exploration
+ Explored the dataset using summary statistics and visualizations to identify patterns and relationships.
+![Summary statistics](https://github.com/user-attachments/assets/51c86274-f101-4160-b4d1-7aea66d6b4b9)
+
