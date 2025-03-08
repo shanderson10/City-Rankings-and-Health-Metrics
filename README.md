@@ -28,6 +28,14 @@ Modeling for Predictions
 3.  What combination of factors (e.g., rank, happiness, obesity rates) best predicts overall quality of life?
 4.  Do cities in certain regions consistently perform better or worse in these metrics?
 5.  What interventions could cities prioritize to improve quality of life and health outcomes?
+
+   ## Leveraged Colab 
+   By utilizing Colab, I handle tasks like importing:
+   - Datasets
+   - Processing data
+   - Conducting numerical computations
+   - Creating visualizations
+   
    
 #  Rank vs Happiness levels(Country)
 
