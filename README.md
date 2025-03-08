@@ -55,7 +55,10 @@ To ensure our data is in the best form for analysis, removed currency symbols an
 ![Summary statistics](https://github.com/user-attachments/assets/51c86274-f101-4160-b4d1-7aea66d6b4b9)
 
 
-1. Rank vs Happiness levels(Country)
+## Rank vs Happiness levels(Country)
+
+![pandas core frame DataFrame](https://github.com/user-attachments/assets/bbfa7462-64c6-45a1-a7dc-3ef0e35b11f3)
+   
 ![City-Rankings-and-Health-Metrics- Pandas as pd ](https://github.com/user-attachments/assets/6d70796f-0dbf-48b6-9b55-ddb9086ea673)
 
 ![Sunshine hours by City Visualizations](https://github.com/user-attachments/assets/637a2ca6-f880-4533-a815-354820fea985)
