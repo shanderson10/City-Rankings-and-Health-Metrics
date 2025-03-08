@@ -40,7 +40,8 @@ Modeling for Predictions
  ## Import Libraries and Load Data
  Importing necessary libraries and loading dataset- Pandas as pd
 
- 
+ ![Panda as pd Coding](https://github.com/user-attachments/assets/2cffdf67-1a66-427f-8346-0bc018a051bb)
+
 
 ## Data Wrangling
 To ensure our data is in the best form for analysis, removed currency symbols and percentages, converting relevant columns to float.
