@@ -38,8 +38,7 @@ Modeling for Predictions
    - Creating visualizations
 
      ## Import Libraries and Load Data
-We start by importing necessary libraries and loading our dataset
-  - Pandas as pd
+ Importing necessary libraries and loading dataset- Pandas as pd
     
 Range Index: 44 entries, 0 to 43
 Data columns (total 12 columns):
