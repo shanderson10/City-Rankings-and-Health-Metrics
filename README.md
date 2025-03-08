@@ -78,3 +78,6 @@ To understand the relationships between different numerical features in the data
 
 ![correlation matrix-Compute](https://github.com/user-attachments/assets/37d24afc-1195-4f62-99e6-59fd6398c244)
 
+![correlation matrix-Visualization](https://github.com/user-attachments/assets/db0b9e3c-7f7a-4aa1-b4ce-7f8f317de0e8)
+
+
