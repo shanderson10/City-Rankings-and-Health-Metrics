@@ -80,4 +80,7 @@ To understand the relationships between different numerical features in the data
 
 ![correlation matrix-Visualization](https://github.com/user-attachments/assets/db0b9e3c-7f7a-4aa1-b4ce-7f8f317de0e8)
 
+![import pandas as pd-Define the DataFrame](https://github.com/user-attachments/assets/e0ee3625-7074-40be-b834-a635088a95de)
+
+![import pandas as pd-T-statistic](https://github.com/user-attachments/assets/d77e9ca2-f354-43a7-af88-fb9e01bb5cc4)
 
