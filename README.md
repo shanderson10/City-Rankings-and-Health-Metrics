@@ -26,7 +26,7 @@ Modeling for Predictions
 1.  Are higher-ranked cities consistently happier?
 2.  What impact do rising obesity rates have on average life expectancy across different cities?
 3.  What combination of factors (e.g., rank, happiness, obesity rates) best predicts overall quality of life?
-4.  Do cities in certain regions consistently perform better or worse in these metrics?![City-Rankings-and-Health-Metrics- Pandas as pd ](https://github.com/user-attachments/assets/f6e083dd-b49f-4cfb-a670-0c0b4cddfaa7)
+4.  Do cities in certain regions consistently perform better or worse in these metrics?
 
 5.  What interventions could cities prioritize to improve quality of life and health outcomes?
 
@@ -38,10 +38,10 @@ Modeling for Predictions
    - Creating visualizations
 
      ## Import Libraries and Load Data
-     We start by importing necessary libraries and loading our dataset
+We start by importing necessary libraries and loading our dataset
   - Pandas as pd
-   <class 'pandas.core.frame.DataFrame'>
-RangeIndex: 44 entries, 0 to 43
+    
+Range Index: 44 entries, 0 to 43
 Data columns (total 12 columns):
  #   Column                                  Non-Null Count  Dtype  
 ---  ------                                  --------------  -----  
@@ -59,3 +59,5 @@ Data columns (total 12 columns):
  11  Cost of a monthly gym membership(City)  44 non-null     object 
 dtypes: float64(3), int64(3), object(6)
 memory usage: 4.2+ KB
+
+![City-Rankings-and-Health-Metrics- Pandas as pd ](https://github.com/user-attachments/assets/6d70796f-0dbf-48b6-9b55-ddb9086ea673)
