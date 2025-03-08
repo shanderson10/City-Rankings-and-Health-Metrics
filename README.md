@@ -40,7 +40,8 @@ Modeling for Predictions
  ## Import Libraries and Load Data
  Importing necessary libraries and loading dataset- Pandas as pd
 
- ![Panda as pd Coding](https://github.com/user-attachments/assets/2cffdf67-1a66-427f-8346-0bc018a051bb)
+ ![Panda as pd Coding](https://github.com/user-attachments/assets/c877ae6f-887d-4c29-ad9b-63bf3432ba0a)
+
 
 
 ## Data Wrangling
