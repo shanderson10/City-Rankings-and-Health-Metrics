@@ -26,7 +26,8 @@ Modeling for Predictions
 1.  Are higher-ranked cities consistently happier?
 2.  What impact do rising obesity rates have on average life expectancy across different cities?
 3.  What combination of factors (e.g., rank, happiness, obesity rates) best predicts overall quality of life?
-4.  Do cities in certain regions consistently perform better or worse in these metrics?
+4.  Do cities in certain regions consistently perform better or worse in these metrics?![City-Rankings-and-Health-Metrics- Pandas as pd ](https://github.com/user-attachments/assets/f6e083dd-b49f-4cfb-a670-0c0b4cddfaa7)
+
 5.  What interventions could cities prioritize to improve quality of life and health outcomes?
 
    ## Leveraged Colab 
@@ -37,12 +38,24 @@ Modeling for Predictions
    - Creating visualizations
 
      ## Import Libraries and Load Data
-     import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-path= "/content/drive/MyDrive/Dataset/healthy_lifestyle_city_2021.csv"
-df=pd.read_csv(path)
-df.info()
-df.head (5)
-   
+     We start by importing necessary libraries and loading our dataset
+  - Pandas as pd
+   <class 'pandas.core.frame.DataFrame'>
+RangeIndex: 44 entries, 0 to 43
+Data columns (total 12 columns):
+ #   Column                                  Non-Null Count  Dtype  
+---  ------                                  --------------  -----  
+ 0   City                                    44 non-null     object 
+ 1   Rank                                    44 non-null     int64  
+ 2   Sunshine hours(City)                    44 non-null     object 
+ 3   Cost of a bottle of water(City)         44 non-null     object 
+ 4   Obesity levels(Country)                 44 non-null     float64
+ 5   Life expectancy(years) (Country)        44 non-null     float64
+ 6   Pollution(Index score) (City)           44 non-null     object 
+ 7   Annual avg. hours worked                44 non-null     object 
+ 8   Happiness levels(Country)               44 non-null     float64
+ 9   Outdoor activities(City)                44 non-null     int64  
+ 10  Number of take out places(City)         44 non-null     int64  
+ 11  Cost of a monthly gym membership(City)  44 non-null     object 
+dtypes: float64(3), int64(3), object(6)
+memory usage: 4.2+ KB
