@@ -43,20 +43,7 @@ Modeling for Predictions
 Data columns (total 12 columns):
 Range Index: 44 entries, 0 to 43
 
- ##   Column                                  Non-Null Count  Dtype   
-- 0   City                                    44 non-null     object 
-- 1   Rank                                    44 non-null     int64
-- 2   Sunshine hours(City)                    44 non-null     object
-- 3   Cost of a bottle of water(City)         44 non-null     object
-- 4   Obesity levels(Country)                 44 non-null     float64
-- 5   Life expectancy(years) (Country)        44 non-null     float64
-- 6   Pollution(Index score) (City)           44 non-null     object
-- 7   Annual avg. hours worked                44 non-null     object
-- 8   Happiness levels(Country)               44 non-null     float64
-- 9   Outdoor activities(City)                44 non-null     int64
-- 10  Number of take out places(City)         44 non-null     int64
--  11  Cost of a monthly gym membership(City)  44 non-null     object 
-dtypes: float64(3), int64(3), object(6)
-memory usage: 4.2+ KB
+![Panda as pd Coding](https://github.com/user-attachments/assets/9b771695-5ea9-4e76-9143-fb29c19879e1)
+
 
 ![City-Rankings-and-Health-Metrics- Pandas as pd ](https://github.com/user-attachments/assets/6d70796f-0dbf-48b6-9b55-ddb9086ea673)
