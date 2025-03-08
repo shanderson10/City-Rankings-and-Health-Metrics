@@ -1,6 +1,11 @@
 # City-Rankings-and-Health-Metrics
 
-![](Ciy-Rankings-and-Health.jpeg)
+![City-Rankings-and-Health-Metrics](https://github.com/user-attachments/assets/2f852d04-3c1c-4f23-b6e4-72ff46d1d8ac)
+
+
+## Introduction
+This project explores the relationship between city rankings, happiness levels, and health metrics such as obesity and life expectancy. It aims to uncover patterns and insights that can guide urban planning and public health initiatives.
+
 
 #  Rank vs Happiness levels(Country)
 
