@@ -35,30 +35,14 @@ Modeling for Predictions
    - Processing data
    - Conducting numerical computations
    - Creating visualizations
+
+     ## Import Libraries and Load Data
+     import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+path= "/content/drive/MyDrive/Dataset/healthy_lifestyle_city_2021.csv"
+df=pd.read_csv(path)
+df.info()
+df.head (5)
    
-#  Rank vs Happiness levels(Country)
-<class 'pandas.core.frame.DataFrame'>
-RangeIndex: 44 entries, 0 to 43
-Data columns (total 12 columns):
- #   Column                                  Non-Null Count  Dtype  
----  ------                                  --------------  -----  
- 0   City                                    44 non-null     object 
- 1   Rank                                    44 non-null     int64  
- 2   Sunshine hours(City)                    44 non-null     object 
- 3   Cost of a bottle of water(City)         44 non-null     object 
- 4   Obesity levels(Country)                 44 non-null     float64
- 5   Life expectancy(years) (Country)        44 non-null     float64
- 6   Pollution(Index score) (City)           44 non-null     object 
- 7   Annual avg. hours worked                44 non-null     object 
- 8   Happiness levels(Country)               44 non-null     float64
- 9   Outdoor activities(City)                44 non-null     int64  
- 10  Number of take out places(City)         44 non-null     int64  
- 11  Cost of a monthly gym membership(City)  44 non-null     object 
-dtypes: float64(3), int64(3), object(6)
-memory usage: 4.2+ KB
-City	Rank	Sunshine hours(City)	Cost of a bottle of water(City)	Obesity levels(Country)	Life expectancy(years) (Country)	Pollution(Index score) (City)	Annual avg. hours worked	Happiness levels(Country)	Outdoor activities(City)	Number of take out places(City)	Cost of a monthly gym membership(City)
-0	Amsterdam	1	1858	$1.92	20.4	81.2	30.93	1434	7.44	422	1048	$34.90
-1	Sydney	2	2636	$1.48	29.0	82.1	26.86	1712	7.22	406	1103	$41.66
-2	Vienna	3	1884	$1.94	20.1	81.0	17.33	1501	7.29	132	1008	$25.74
-3	Stockholm	4	1821	$1.72	20.6	81.8	19.63	1452	7.35	129	598	$37.31
-4	Copenhagen	5	1630	$2.19	19.7	79.8	21.24	1380	7.64	154	523	$32.53
