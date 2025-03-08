@@ -54,8 +54,7 @@ To ensure our data is in the best form for analysis, removed currency symbols an
  Explored the dataset using summary statistics and visualizations to identify patterns and relationships.
 ![Summary statistics](https://github.com/user-attachments/assets/51c86274-f101-4160-b4d1-7aea66d6b4b9)
 
-
-1. Rank vs Happiness levels(Country)
+- Rank vs Happiness levels(Country)
 
 ![pandas core frame DataFrame](https://github.com/user-attachments/assets/bbfa7462-64c6-45a1-a7dc-3ef0e35b11f3)
    
