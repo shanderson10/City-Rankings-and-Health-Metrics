@@ -18,7 +18,7 @@ Key Features and Relationships:
   - Rank vs. Happiness: Examine how societal factors, such as access to education or healthcare, affect happiness rankings. Use scatterplots or regression models to visualize correlations.
   - Obesity Levels vs. Life Expectancy: Apply correlation analysis to quantify the strength of this relationship. A negative correlation might indicate the health impact of higher obesity rates.
     
-Modeling for Predictions
+Modeling for Predictions:
 - Combine the above features (e.g., rank, happiness, obesity levels, life expectancy) to build a predictive model.
 - Use machine learning techniques like regression analysis or classification models to predict overall quality of life and health outcomes.
 
