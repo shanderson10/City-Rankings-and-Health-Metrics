@@ -38,11 +38,12 @@ Modeling for Predictions
    - Creating visualizations
 
  ## Import Libraries and Load Data
- Importing necessary libraries and loading dataset- Pandas as pd
+ Importing necessary libraries and loading dataset- Using Colab with:
+ - Pandas
+ - Matplotlib
+ - Seaborn
 
  ![Panda as pd Coding](https://github.com/user-attachments/assets/c877ae6f-887d-4c29-ad9b-63bf3432ba0a)
-
-
 
 ## Data Wrangling
 To ensure our data is in the best form for analysis, removed currency symbols and percentages, converting relevant columns to float.
