@@ -75,3 +75,6 @@ Correlation Matrix
 To understand the relationships between different numerical features in the dataset, created a correlation matrix.
 
 ![correlation matrix-Create DataFrame](https://github.com/user-attachments/assets/4f9088d7-7cf2-49b0-be5f-becb9555ba54)
+
+![correlation matrix-Compute](https://github.com/user-attachments/assets/37d24afc-1195-4f62-99e6-59fd6398c244)
+
