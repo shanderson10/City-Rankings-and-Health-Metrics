@@ -37,16 +37,16 @@ Modeling for Predictions
    - Conducting numerical computations
    - Creating visualizations
 
-     ## Import Libraries and Load Data
+ ## Import Libraries and Load Data
  Importing necessary libraries and loading dataset- Pandas as pd
     
 Range Index: 44 entries, 0 to 43
 Data columns (total 12 columns):
  #   Column                                  Non-Null Count  Dtype  
 ---  ------                                  --------------  -----  
- 0   City                                    44 non-null     object 
- 1   Rank                                    44 non-null     int64  
- 2   Sunshine hours(City)                    44 non-null     object 
+- 0   City                                    44 non-null     object 
+- 1   Rank                                    44 non-null     int64  
+ -2   Sunshine hours(City)                    44 non-null     object 
  3   Cost of a bottle of water(City)         44 non-null     object 
  4   Obesity levels(Country)                 44 non-null     float64
  5   Life expectancy(years) (Country)        44 non-null     float64
